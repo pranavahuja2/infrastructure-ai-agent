@@ -94,8 +94,3 @@ The agent follows a structured workflow:
    AWS_DEFAULT_REGION = "us-east-1"
    ```
 4. Deploy
-
-## License
-
-MIT
-# infrastructure-ai-agent
